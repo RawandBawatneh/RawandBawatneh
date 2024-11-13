@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rawandbawatneh&label=Profile%20views&color=0e75b6&style=flat" alt="rawandbawatneh" />
 </p>
 
-- 🔭 I’m currently working on [16x16 High-Speed Magnitude Comparator in CMOS Logic](https://github.com/your-repo-link) 
 
 - 🌱 Learning: *Flutter*
 
